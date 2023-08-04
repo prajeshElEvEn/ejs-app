@@ -1,8 +1,8 @@
 const indexController = async (req, res) => {
-  const text = {
+  const data = {
     text: "EJS",
   };
-  res.render("index", text);
+  res.render("index", data);
 };
 
 module.exports = {
