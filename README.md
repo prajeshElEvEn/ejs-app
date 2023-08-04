@@ -11,7 +11,6 @@
             |-style.css
         |-assets
             |-images
-                |-cat.jpg
     |-views
         |-index.ejs
     |-routes
@@ -19,4 +18,5 @@
     |-controllers
         |-index.js
     |-index.js
+    |-package.json
 ```
